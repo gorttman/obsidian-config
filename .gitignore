@@ -1,0 +1,16 @@
+# Obsidian workspace state — machine-specific, not shared
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache
+.obsidian/cache
+
+# Obsidian Sync internal state
+.obsidian/sync-state
+.obsidian/.sync-state
+.obsidian/hotreload
+
+# OS artefacts
+.DS_Store
+Thumbs.db
+*.tmp
