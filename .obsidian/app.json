@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "attachments",
+  "spellcheck": false,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest"
+}
